@@ -1,0 +1,15 @@
+body {
+  background-color: skyblue;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: text 10px;
+}
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  width: 100px;
+  height: 100px;
+}
